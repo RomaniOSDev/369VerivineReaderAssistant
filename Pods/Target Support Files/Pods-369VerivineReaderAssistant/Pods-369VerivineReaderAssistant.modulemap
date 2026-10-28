@@ -1,0 +1,6 @@
+framework module Pods_369VerivineReaderAssistant {
+  umbrella header "Pods-369VerivineReaderAssistant-umbrella.h"
+
+  export *
+  module * { export * }
+}

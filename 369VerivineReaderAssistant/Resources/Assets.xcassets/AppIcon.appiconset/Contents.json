@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "premium-app-icon--rounded-square--for-a-smart-read.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
